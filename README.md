@@ -3,4 +3,9 @@
 - [x] Valid Parentheses
 - [x] Merge Two Sorted Lists
 - [x] Best Time to Buy and Sell Stock
-- [ ] Valid Palindrome
+- [x] Valid Palindrome
+- [x] Invert Binary Tree
+- [x] Valid Anagram
+- [x] Binary Search
+- [x] Flood Fill
+- [ ] Lowest Common Ancestor of a Binary Search Tree
