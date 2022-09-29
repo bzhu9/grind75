@@ -9,4 +9,5 @@
 - [x] Binary Search
 - [x] Flood Fill
 - [x] Lowest Common Ancestor of a Binary Search Tree
-- [ ] Balanced Binary Tree
+- [x] Balanced Binary Tree
+- [ ] Linked List Cycle
