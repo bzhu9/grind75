@@ -8,4 +8,5 @@
 - [x] Valid Anagram
 - [x] Binary Search
 - [x] Flood Fill
-- [ ] Lowest Common Ancestor of a Binary Search Tree
+- [x] Lowest Common Ancestor of a Binary Search Tree
+- [ ] Balanced Binary Tree
