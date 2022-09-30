@@ -1,4 +1,5 @@
 # Grind 75
+### Week 1
 - [x] Two Sum
 - [x] Valid Parentheses
 - [x] Merge Two Sorted Lists
@@ -11,4 +12,6 @@
 - [x] Lowest Common Ancestor of a Binary Search Tree
 - [x] Balanced Binary Tree
 - [x] Linked List Cycle
-- [ ] Implement Queue using Stacks
+- [x] Implement Queue using Stacks
+### Week 2
+- [ ] First Bad Version
