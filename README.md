@@ -14,4 +14,5 @@
 - [x] Linked List Cycle
 - [x] Implement Queue using Stacks
 ### Week 2
-- [ ] First Bad Version
+- [x] First Bad Version
+- [ ] Ransom Note
