@@ -15,4 +15,7 @@
 - [x] Implement Queue using Stacks
 ### Week 2
 - [x] First Bad Version
-- [ ] Ransom Note
+- [x] Ransom Note
+- [x] Climbing Stairs
+- [x] Longest Palindrome
+- [ ] Reverse Linked List
