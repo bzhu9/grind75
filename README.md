@@ -20,4 +20,5 @@
 - [x] Longest Palindrome
 - [x] Reverse Linked List
 - [x] Majority Element
-- [ ] Add Binary
+- [x] Add Binary
+- [ ] Diameter of Binary Tree
