@@ -19,4 +19,5 @@
 - [x] Climbing Stairs
 - [x] Longest Palindrome
 - [x] Reverse Linked List
-- [ ] Majority Element
+- [x] Majority Element
+- [ ] Add Binary
