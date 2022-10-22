@@ -18,4 +18,5 @@
 - [x] Ransom Note
 - [x] Climbing Stairs
 - [x] Longest Palindrome
-- [ ] Reverse Linked List
+- [x] Reverse Linked List
+- [ ] Majority Element
