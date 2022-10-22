@@ -21,4 +21,5 @@
 - [x] Reverse Linked List
 - [x] Majority Element
 - [x] Add Binary
-- [ ] Diameter of Binary Tree
+- [x] Diameter of Binary Tree
+- [ ] Middle of the Linked List
