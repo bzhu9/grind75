@@ -22,4 +22,5 @@
 - [x] Majority Element
 - [x] Add Binary
 - [x] Diameter of Binary Tree
-- [ ] Middle of the Linked List
+- [x] Middle of the Linked List
+- [ ] Maximum Depth of Binary Tree
