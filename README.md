@@ -24,4 +24,4 @@
 - [x] Diameter of Binary Tree
 - [x] Middle of the Linked List
 - [x] Maximum Depth of Binary Tree
-- [ ] Contains Duplicate
+- [x] Contains Duplicate
