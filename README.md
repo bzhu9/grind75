@@ -25,3 +25,6 @@
 - [x] Middle of the Linked List
 - [x] Maximum Depth of Binary Tree
 - [x] Contains Duplicate
+- [x] Maximum Subarray
+### Week 3
+- [ ] Insert Interval
