@@ -1,5 +1,6 @@
 # Grind 75
-### Week 1
+<details>
+<summary>### Week 1</summary>
 - [x] Two Sum
 - [x] Valid Parentheses
 - [x] Merge Two Sorted Lists
@@ -13,7 +14,10 @@
 - [x] Balanced Binary Tree
 - [x] Linked List Cycle
 - [x] Implement Queue using Stacks
-### Week 2
+</details>
+
+<details>
+<summary>### Week 2</summary>
 - [x] First Bad Version
 - [x] Ransom Note
 - [x] Climbing Stairs
@@ -26,5 +30,9 @@
 - [x] Maximum Depth of Binary Tree
 - [x] Contains Duplicate
 - [x] Maximum Subarray
-### Week 3
+</details>
+
+<details>
+<summary>### Week 3</summary>
 - [ ] Insert Interval
+</details>
