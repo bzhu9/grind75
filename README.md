@@ -1,6 +1,6 @@
 # Grind 75
 <details>
-<summary>### Week 1</summary>
+<summary>Week 1</summary>
 - [x] Two Sum
 - [x] Valid Parentheses
 - [x] Merge Two Sorted Lists
@@ -17,7 +17,7 @@
 </details>
 
 <details>
-<summary>### Week 2</summary>
+<summary>Week 2</summary>
 - [x] First Bad Version
 - [x] Ransom Note
 - [x] Climbing Stairs
@@ -33,6 +33,6 @@
 </details>
 
 <details>
-<summary>### Week 3</summary>
+<summary>Week 3</summary>
 - [ ] Insert Interval
 </details>
