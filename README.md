@@ -19,7 +19,6 @@
 
 <details>
 <summary>Week 2</summary>
-</br>
 
 - [x] First Bad Version
 - [x] Ransom Note
@@ -37,7 +36,6 @@
 
 <details>
 <summary>Week 3</summary>
-</br>
 
 - [ ] Insert Interval
 </details>
