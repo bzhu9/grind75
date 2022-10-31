@@ -37,5 +37,6 @@
 <details>
 <summary>Week 3</summary>
 
-- [ ] Insert Interval
+- [x] Insert Interval
+- [ ] 01 Matrix
 </details>
