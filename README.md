@@ -39,5 +39,6 @@
 
 - [x] Insert Interval
 - [x] 01 Matrix
-- [ ] K Closest Points to Origin
+- [x] K Closest Points to Origin
+- [ ] Longest Substring Without Repeating Characters
 </details>
