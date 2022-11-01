@@ -40,5 +40,6 @@
 - [x] Insert Interval
 - [x] 01 Matrix
 - [x] K Closest Points to Origin
-- [ ] Longest Substring Without Repeating Characters
+- [x] Longest Substring Without Repeating Characters
+- [ ] 3Sum
 </details>
