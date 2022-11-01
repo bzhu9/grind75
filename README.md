@@ -38,5 +38,6 @@
 <summary>Week 3</summary>
 
 - [x] Insert Interval
-- [ ] 01 Matrix
+- [x] 01 Matrix
+- [ ] K Closest Points to Origin
 </details>
