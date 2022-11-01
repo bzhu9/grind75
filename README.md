@@ -41,5 +41,6 @@
 - [x] 01 Matrix
 - [x] K Closest Points to Origin
 - [x] Longest Substring Without Repeating Characters
-- [ ] 3Sum
+- [x] 3Sum
+- [ ] Binary Tree Level Order Traversal
 </details>
