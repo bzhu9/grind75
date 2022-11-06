@@ -50,5 +50,6 @@
 <details>
 <summary>Week 4</summary>
 
-- [ ] Course Schedule
+- [x] Course Schedule
+- [ ] Implement Trie (Prefix Tree)
 </details>
