@@ -44,5 +44,11 @@
 - [x] 3Sum
 - [x] Binary Tree Level Order Traversal
 - [x] Clone Graph
-- [ ] Evaluate Reverse Polish Notation
+- [x] Evaluate Reverse Polish Notation
+</details>
+
+<details>
+<summary>Week 4</summary>
+
+- [ ] Course Schedule
 </details>
