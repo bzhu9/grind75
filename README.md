@@ -54,5 +54,6 @@
 - [x] Implement Trie (Prefix Tree)
 - [x] Coin Change
 - [x] Product of Array Except Self
-- [ ] Min Stack
+- [x] Min Stack
+- [ ] Validate Binary Search Tree
 </details>
