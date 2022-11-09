@@ -52,5 +52,7 @@
 
 - [x] Course Schedule
 - [x] Implement Trie (Prefix Tree)
-- [ ] Coin Change
+- [x] Coin Change
+- [x] Product of Array Except Self
+- [ ] Min Stack
 </details>
