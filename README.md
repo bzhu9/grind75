@@ -51,5 +51,6 @@
 <summary>Week 4</summary>
 
 - [x] Course Schedule
-- [ ] Implement Trie (Prefix Tree)
+- [x] Implement Trie (Prefix Tree)
+- [ ] Coin Change
 </details>
