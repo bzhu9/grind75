@@ -55,5 +55,6 @@
 - [x] Coin Change
 - [x] Product of Array Except Self
 - [x] Min Stack
-- [ ] Validate Binary Search Tree
+- [x] Validate Binary Search Tree
+- [ ] Number of Islands
 </details>
