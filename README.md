@@ -56,5 +56,6 @@
 - [x] Product of Array Except Self
 - [x] Min Stack
 - [x] Validate Binary Search Tree
-- [ ] Number of Islands
+- [x] Number of Islands
+- [ ] Rotting Oranges
 </details>
